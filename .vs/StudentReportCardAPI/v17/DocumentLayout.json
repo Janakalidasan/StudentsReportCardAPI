@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Janakalidasan\\source\\repos\\StudentReportCardAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ACBB46C3-C39A-E6B8-C38E-77B30D9FDE0B}|StudentReportCardAPI.csproj|c:\\users\\janakalidasan\\source\\repos\\studentreportcardapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACBB46C3-C39A-E6B8-C38E-77B30D9FDE0B}|StudentReportCardAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACBB46C3-C39A-E6B8-C38E-77B30D9FDE0B}|StudentReportCardAPI.csproj|c:\\users\\janakalidasan\\source\\repos\\studentreportcardapi\\controllers\\reportcardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACBB46C3-C39A-E6B8-C38E-77B30D9FDE0B}|StudentReportCardAPI.csproj|solutionrelative:controllers\\reportcardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACBB46C3-C39A-E6B8-C38E-77B30D9FDE0B}|StudentReportCardAPI.csproj|c:\\users\\janakalidasan\\source\\repos\\studentreportcardapi\\models\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACBB46C3-C39A-E6B8-C38E-77B30D9FDE0B}|StudentReportCardAPI.csproj|solutionrelative:models\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACBB46C3-C39A-E6B8-C38E-77B30D9FDE0B}|StudentReportCardAPI.csproj|c:\\users\\janakalidasan\\source\\repos\\studentreportcardapi\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACBB46C3-C39A-E6B8-C38E-77B30D9FDE0B}|StudentReportCardAPI.csproj|solutionrelative:models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACBB46C3-C39A-E6B8-C38E-77B30D9FDE0B}|StudentReportCardAPI.csproj|c:\\users\\janakalidasan\\source\\repos\\studentreportcardapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACBB46C3-C39A-E6B8-C38E-77B30D9FDE0B}|StudentReportCardAPI.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACBB46C3-C39A-E6B8-C38E-77B30D9FDE0B}|StudentReportCardAPI.csproj|c:\\users\\janakalidasan\\source\\repos\\studentreportcardapi\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACBB46C3-C39A-E6B8-C38E-77B30D9FDE0B}|StudentReportCardAPI.csproj|solutionrelative:models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACBB46C3-C39A-E6B8-C38E-77B30D9FDE0B}|StudentReportCardAPI.csproj|c:\\users\\janakalidasan\\source\\repos\\studentreportcardapi\\models\\studentmark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACBB46C3-C39A-E6B8-C38E-77B30D9FDE0B}|StudentReportCardAPI.csproj|solutionrelative:models\\studentmark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACBB46C3-C39A-E6B8-C38E-77B30D9FDE0B}|StudentReportCardAPI.csproj|c:\\users\\janakalidasan\\source\\repos\\studentreportcardapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACBB46C3-C39A-E6B8-C38E-77B30D9FDE0B}|StudentReportCardAPI.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACBB46C3-C39A-E6B8-C38E-77B30D9FDE0B}|StudentReportCardAPI.csproj|c:\\users\\janakalidasan\\source\\repos\\studentreportcardapi\\models\\examsubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACBB46C3-C39A-E6B8-C38E-77B30D9FDE0B}|StudentReportCardAPI.csproj|solutionrelative:models\\examsubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Janakalidasan\\source\\repos\\StudentReportCardAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Janakalidasan\\source\\repos\\StudentReportCardAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T19:11:27.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Janakalidasan\\source\\repos\\StudentReportCardAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Janakalidasan\\source\\repos\\StudentReportCardAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T19:17:18.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "C:\\Users\\Janakalidasan\\source\\repos\\StudentReportCardAPI\\Models\\Subject.cs",
+              "RelativeDocumentMoniker": "Models\\Subject.cs",
+              "ToolTip": "C:\\Users\\Janakalidasan\\source\\repos\\StudentReportCardAPI\\Models\\Subject.cs",
+              "RelativeToolTip": "Models\\Subject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T19:17:12.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentMark.cs",
+              "DocumentMoniker": "C:\\Users\\Janakalidasan\\source\\repos\\StudentReportCardAPI\\Models\\StudentMark.cs",
+              "RelativeDocumentMoniker": "Models\\StudentMark.cs",
+              "ToolTip": "C:\\Users\\Janakalidasan\\source\\repos\\StudentReportCardAPI\\Models\\StudentMark.cs",
+              "RelativeToolTip": "Models\\StudentMark.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T19:17:07.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Janakalidasan\\source\\repos\\StudentReportCardAPI\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Janakalidasan\\source\\repos\\StudentReportCardAPI\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T19:17:01.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ExamSubject.cs",
+              "DocumentMoniker": "C:\\Users\\Janakalidasan\\source\\repos\\StudentReportCardAPI\\Models\\ExamSubject.cs",
+              "RelativeDocumentMoniker": "Models\\ExamSubject.cs",
+              "ToolTip": "C:\\Users\\Janakalidasan\\source\\repos\\StudentReportCardAPI\\Models\\ExamSubject.cs",
+              "RelativeToolTip": "Models\\ExamSubject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T19:13:52.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Exam.cs",
+              "DocumentMoniker": "C:\\Users\\Janakalidasan\\source\\repos\\StudentReportCardAPI\\Models\\Exam.cs",
+              "RelativeDocumentMoniker": "Models\\Exam.cs",
+              "ToolTip": "C:\\Users\\Janakalidasan\\source\\repos\\StudentReportCardAPI\\Models\\Exam.cs",
+              "RelativeToolTip": "Models\\Exam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T19:13:49.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class.cs",
+              "DocumentMoniker": "C:\\Users\\Janakalidasan\\source\\repos\\StudentReportCardAPI\\Models\\Class.cs",
+              "RelativeDocumentMoniker": "Models\\Class.cs",
+              "ToolTip": "C:\\Users\\Janakalidasan\\source\\repos\\StudentReportCardAPI\\Models\\Class.cs",
+              "RelativeToolTip": "Models\\Class.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T19:13:39.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReportCardController.cs",
+              "DocumentMoniker": "C:\\Users\\Janakalidasan\\source\\repos\\StudentReportCardAPI\\Controllers\\ReportCardController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReportCardController.cs",
+              "ToolTip": "C:\\Users\\Janakalidasan\\source\\repos\\StudentReportCardAPI\\Controllers\\ReportCardController.cs",
+              "RelativeToolTip": "Controllers\\ReportCardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T19:08:43.452Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
